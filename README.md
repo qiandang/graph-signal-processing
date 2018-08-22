@@ -1,6 +1,6 @@
-# graph-signal-processing //
-GRAPH signal processing (GSP) is an emerging field that studies signals supported on irregular domains. It extends traditional signal processing techniques to more intricate data structures, finding applications in sensor networks, image processing, and clustering, to name a few. This project applies graph signal processing to the semi-supervised field of handwritten numeral recognition to achieve handwritten numeral classification.//
-notions：//
+# graph-signal-processing 
+GRAPH signal processing (GSP) is an emerging field that studies signals supported on irregular domains. It extends traditional signal processing techniques to more intricate data structures, finding applications in sensor networks, image processing, and clustering, to name a few. This project applies graph signal processing to the semi-supervised field of handwritten numeral recognition to achieve handwritten numeral classification.  
+notions：  
 1.graph: Graphs are generic data representation forms which are useful for describing the geometric structures of data domains in numerous applications, including social, energy, transportation, sensor and neuronal networks. (Non-rule discrete domains)//
 2.A graph signal: A graph signal is a real valued function defined on each node of the graph//
 3.sampling theorem of graph signal//
